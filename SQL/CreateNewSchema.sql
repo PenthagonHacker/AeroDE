@@ -1,0 +1,1 @@
+CREATE SCHEMA aerode AUTHORIZATION airflow;
