@@ -2,7 +2,7 @@
 ## [Test assignment link](http://taniadi.notion.site/Aero-DE-c7b2b267caa14570935d7cba30218865 "Test Assignment") 
 
 **STEPS**:
-1. *Create "airflow" directory and download docker-compose.yaml into it. (**make sure internal and extrenal ports are mapped for Postgres container**, otherwise you won't be able to connect dbeaver or another database IDE for that matter to you PostgreSQL database)*
+1. *Create "airflow" directory and download docker-compose.yaml into it. (**make sure internal and external ports are mapped for Postgres container**, otherwise you won't be able to connect dbeaver or another database IDE for that matter to you PostgreSQL database)*
 
 2. *Create sub-directories such as  "./logs", "./dags", "./config" and "./plugins"*
 
